@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptrack/static/css/main.e4d9d145.css",
+    "main.js": "/cryptrack/static/js/main.c97f2532.js",
+    "index.html": "/cryptrack/index.html",
+    "main.e4d9d145.css.map": "/cryptrack/static/css/main.e4d9d145.css.map",
+    "main.c97f2532.js.map": "/cryptrack/static/js/main.c97f2532.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d9d145.css",
+    "static/js/main.c97f2532.js"
+  ]
+}
